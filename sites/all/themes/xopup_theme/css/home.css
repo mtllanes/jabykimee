@@ -1,0 +1,8 @@
+body {
+
+}
+
+div.view-home-block div:first-child table.views-view-grid {
+  background: blue;
+
+}
